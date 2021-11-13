@@ -1,0 +1,288 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+span {
+color: lightskyblue;
+font-style: italic;
+}
+
+
+header {
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(0, 0, 0, 0.425);
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+}
+
+nav {
+    width: 95%;
+    height: 100%;
+    margin-left: 2.5%;
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    width: 60%;
+}
+
+header li {
+    padding: 1%;
+    display: inline;
+}
+
+header a {
+    display: flex;
+    flex-flow: wrap;
+    color: rgba(255, 255, 255, 0.753);
+    text-decoration: none;
+    align-items: center;
+}
+
+#logoPlusCounter {
+    position: relative;
+    width: 15%;
+    height: 60%;
+    bottom: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#cartIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 100%;
+    border-radius: 5px;
+    margin-left: 100%;
+}
+
+
+#cartImg{
+    color: white;
+} 
+
+#cartCounter {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    width: 8%;
+    top: 0%;
+    left: 100%;
+    visibility: hidden;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(230, 33, 33);
+    z-index: 1;
+    font-size: 11px;
+}
+
+
+
+#slider {
+    overflow: hidden;
+    width: 70%;
+    height: 50vh;
+    margin-left: 15%;
+}
+
+#slider figure {
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    animation: 20s slider infinite;
+}
+
+#slider figure img {
+    float: left;
+    width: 20%;
+    height: 50vh;
+}
+
+
+
+#caption {
+    background-color: rgb(0, 0, 107);
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding: 1%;
+}
+
+
+h2, h1, h3 {
+    text-align: center;
+}
+
+#categories {
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 27%;
+}
+
+
+#categories img {
+    width: 100%;
+    height: 30vh;
+    transition: 1s ;
+}
+
+#categories1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 50%;
+}
+
+
+#categories2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 50%;
+}
+
+#aboutUs {
+    background-color:rgba(211, 211, 211, 0.315);
+}
+
+#aboutUs h3 {
+    text-align: start;
+    margin-left: 2%;
+}
+
+#aboutUsContent {
+    margin-left: 12%;
+}
+
+
+
+footer {
+    background-color: rgba(128, 128, 128, 0.363);
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#categories img:hover {
+    transform: scale(1.02);
+    box-shadow: black 1px 2px 8px;
+
+}
+
+
+li a:hover {
+    color:white;
+    font-weight: 600;
+}
+
+#welcomeTitle {
+    margin-top: 6%;
+}
+
+@keyframes slider {
+0% {
+    left: 0;
+}
+20% {
+    left: 0;
+}
+25% {
+    left: -100%;
+}
+45% {
+    left: -100%;
+}
+50% {
+    left: -200%;
+}
+70% {
+    left: -200%;
+}
+75% {
+    left: -300%;
+}
+95% {
+    left: -300%;
+}
+100% {
+    left: -400%;
+}
+}
+
+
+@media screen and (max-width: 768px) {
+    #welcomeTitle {
+        margin-top: 8%;
+    }
+    #slider {
+        height: 40vh;
+    }
+    #slider figure img {
+        height: 40vh;
+    }
+    #categories {
+        width: 50%;
+        margin-left: 25%;
+    }
+    #aboutUsContent {
+        margin-left: 5%;
+    }
+    #cartIcon {
+        margin-right: 20%;
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+    nav li {
+        margin: 3%;
+    }
+
+    #slider {
+        height: 20vh;
+        /* width: 70%; */
+    }
+
+    #slider figure img {
+        height: 20vh;
+        /* width: 70%; */
+
+    }
+
+    #welcomeTitle {
+        margin-top: 22%;
+    }
+    #categories1 {
+        width: 80%;
+    }
+    #categories2 {
+        width: 80%;
+    }
+    #aboutUsContent {
+        font-size:large;
+    }
+    #cartIcon {
+        margin-right: 50%;
+    }
+    #logoPlusCounter {
+        width: 25%;
+    }
+}

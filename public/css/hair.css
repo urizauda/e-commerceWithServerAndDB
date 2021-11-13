@@ -1,0 +1,471 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://i.ibb.co/qYH521c/brown-Background.png);
+    background-size: cover;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+
+header{
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(0, 0, 0, 0.425);
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+
+}
+nav {
+    width: 95%;
+    height: 100%;
+    margin-left: 2.5%;
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    width: 60%;
+}
+
+li {
+    padding: 1%;
+    display: inline;
+}
+
+a {
+    display: flex;
+    flex-flow: wrap;
+    color: rgba(255, 255, 255, 0.753);
+    text-decoration: none;
+    align-items: center;
+}
+
+#logoPlusCounter {
+    position: relative;
+    width: 15%;
+    height: 60%;
+    bottom: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#cartIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 100%;
+    border-radius: 5px;
+    margin-left: 100%;
+}
+
+
+#cartImg{
+    color: white;
+} 
+
+#cartCounter {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    width: 8%;
+    top: 0%;
+    left: 100%;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(230, 33, 33);
+    z-index: 1;
+    font-size: 11px;
+}
+
+
+
+h2 {
+    text-align: center;
+}
+
+#topImgHair {
+    width: 90%;
+    height: 60vh;
+    margin-left: 5.5%;
+    margin-top: 4.5%;
+    position: relative;
+    z-index: -1;
+    filter: brightness(50%);
+}
+
+
+
+span {
+    color:rgb(235, 152, 44);
+    font-style: italic;
+    font-weight: bolder;
+}
+
+
+#txt {
+    position:absolute;
+    z-index: 1;
+    top: 20%;
+    left: 10%;
+    color: white;
+    font-size: 25px;
+}
+
+
+
+
+
+#hairContainer {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+}
+
+#hairStraightenerContainer {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#trimersContainer {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#hairDryerContainer {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#shavingContainer {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#imgDivShaving {
+    height: 17vh;
+    width: 90%;
+    position: relative;
+    border-radius: 30px;
+    margin-left: 4%;
+} 
+
+#imgDivHairStraighteners {
+    height: 17vh;
+    width: 90%;
+    position: relative;
+    border-radius: 30px;
+    margin-left: 4%;
+} 
+
+#imgDivTrimers {
+    height: 17vh;
+    width: 90%;
+    position: relative;
+    border-radius: 30px;
+    margin-left: 4%;
+} 
+
+#imgDivHairDryers {
+    height: 17vh;
+    width: 90%;
+    position: relative;
+    border-radius: 30px;
+    margin-left: 4%;
+} 
+
+
+
+.cartBtn {
+    width: 50%;
+    border-radius: 30px;
+    padding: 3px 5px;
+    height: 4vh;
+    background-color: red;
+    color: black;
+    border-color: white;
+    box-shadow: white 10px 10px 10px;
+    margin-left: 25%;
+    margin-bottom: 2%;
+    margin-top: -23%;
+}
+
+.cartBtnBlue {
+    width: 50%;
+    border-radius: 30px;
+    padding: 3px 5px;
+    height: 4vh;
+    background-color: rgb(21, 21, 248);
+    color: black;
+    border-color: white;
+    box-shadow: white 10px 10px 10px;
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
+
+
+.deleteBtn {
+    width: 50%;
+    border-radius: 30px;
+    padding: 3px 5px;
+    height: 4vh;
+    background-color: green;
+    color: black;
+    border-color: white;
+    box-shadow: white 10px 10px 10px;
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
+    
+    .imageFront {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        border-radius: 30px 30px;
+        backface-visibility: hidden;
+    }
+    
+    .imageBack {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        border-radius: 30px 30px;
+        backface-visibility: hidden;
+        transform-style: preserve-3d;
+        transition: all 1s ease-in-out;
+    }
+    
+    .imageBack:hover {
+        transform: rotateY(180deg);
+    }
+
+
+    #picAndTextShaving {
+        width: 14%;
+        height: 60vh;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        transition: 1s;
+        border-radius: 20px;
+    }
+    
+    
+    #picAndTextShaving  p {
+    margin-left: 5%;
+    }
+    
+    #picAndTextShaving:hover {
+        transform: scale(1.02);
+        box-shadow: black 1px 2px 8px;
+    }
+    
+    
+    
+    #picAndTextHairStraighteners {
+        width: 14%;
+        height: 60vh;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        transition: 1s;
+        border-radius: 20px;   
+    }
+    
+    
+    #picAndTextHairStraighteners  p {
+    margin-left: 5%;
+    }
+    
+    #picAndTextHairStraighteners:hover {
+        transform: scale(1.02);
+        box-shadow: black 1px 2px 8px;
+    }
+    
+    
+    
+    #picAndTextTrimers {
+        width: 14%;
+        height: 60vh;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        transition: 1s;
+        border-radius: 20px;
+    }
+    
+    
+    #picAndTextTrimers  p {
+    margin-left: 5%;
+    }
+    
+    #picAndTextTrimers:hover {
+        transform: scale(1.02);
+        box-shadow: black 1px 2px 8px;
+    }
+    
+    
+    
+    #picAndTextHairDryers {
+        width: 14%;
+        height: 60vh;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        transition: 1s;
+        border-radius: 20px;
+    }
+    
+    
+    #picAndTextHairDryers  p {
+    margin-left: 5%;
+    }
+    
+    #picAndTextHairDryers:hover {
+        transform: scale(1.02);
+        box-shadow: black 1px 2px 8px;
+    }
+    
+
+    .cartBtn:hover,
+    .cartBtn:focus {
+        color: white;
+        cursor: pointer;
+    }
+
+    .cartBtnBlue:hover,
+    .cartBtn:focus {
+        color: white;
+        cursor: pointer;
+    }
+
+    .deleteBtn:hover,
+    .cartBtn:focus {
+        color: white;
+        cursor: pointer;
+    }
+
+    li a:hover {
+        color:white;
+        font-weight: 600;
+    }
+
+
+
+    footer {
+        background-color: rgba(128, 128, 128, 0.363);
+        text-align: center;
+        font-weight: bold;
+    }
+
+
+
+    @media screen and (max-width: 768px) {
+        #txt {
+            top: 8%;
+        }
+        
+        #picAndTextShaving {
+            width: 26%;
+            margin-top: 3%;
+        }
+
+        #picAndTextHairStraighteners {
+            width: 26%;
+            margin-top: 3%;
+
+        }
+
+        #picAndTextTrimers {
+            width: 26%;
+            margin-top: 3%;
+
+        }
+
+        #picAndTextHairDryers {
+            width: 26%;
+            margin-top: 3%;
+
+        }
+
+        #topImgHair {
+            width: 100%;
+            margin-left: 0;
+            margin-top: 5.5%;
+        }
+        #cartIcon {
+            margin-right: 20%;
+        }
+        #cartCounter {
+            margin-left: -8%;
+        }
+    }
+
+    @media screen and (max-width: 425px) {
+        nav li {
+            margin: 3%;
+        }
+        #txt {
+            top: 16%;
+            font-size: 90%;
+        }
+
+        nav li a {
+            margin-left: 12%;
+        }
+        
+        #topImgHair {
+            width: 100%;
+            margin-top: 17.5%;
+            height: 30vh;
+        }
+
+        #picAndTextShaving {
+            width: 60%;
+            margin-bottom: 4%;
+        }
+
+        #picAndTextHairStraighteners {
+            width: 60%;
+            margin-bottom: 4%;
+        }
+
+        #picAndTextTrimers {
+            width: 60%;
+            margin-bottom: 4%;
+        }
+
+        #picAndTextHairDryers {
+            width: 60%;
+        }
+        #cartIcon {
+            margin-right: 50%;
+        }
+        #cartCounter {
+            margin-left: -25%;
+            margin-top: 1%;
+            width: 20%;
+        }
+
+        #logoPlusCounter {
+            width: 25%;
+        }
+    }

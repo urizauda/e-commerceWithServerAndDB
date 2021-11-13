@@ -1,0 +1,1116 @@
+[
+    {
+        "_id": "6188fe1cfc2a72ef5c713a26",
+        "id": 1,
+        "name": "NeoQled",
+        "price": 500,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/R2856Y4/1a.jpg",
+            "https://i.ibb.co/d4pSHMj/1b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a27",
+        "id": 2,
+        "name": "LG UHD TV",
+        "price": 600,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/6s60Yt9/2a.jpg",
+            "https://i.ibb.co/MMqMvNy/2b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a28",
+        "id": 3,
+        "name": "SAMSUNG",
+        "price": 700,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/hVsCMwF/3a.jpg",
+            "https://i.ibb.co/DW4yMKV/3b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a29",
+        "id": 4,
+        "name": "SAMSUNG",
+        "price": 800,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/VVVF3nP/4a.jpg",
+            "https://i.ibb.co/VVVF3nP/4a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a2a",
+        "id": 5,
+        "name": "LG UHD TV",
+        "price": 500,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/4SFc1mc/5a.jpg",
+            "https://i.ibb.co/c87tcZh/5b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a2b",
+        "id": 6,
+        "name": "LG TV",
+        "price": 450,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/hc0xm5R/6a.jpg",
+            "https://i.ibb.co/hc0xm5R/6a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a2c",
+        "id": 7,
+        "name": "PANASONIC",
+        "price": 700,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/Wxxmjgd/7a.png",
+            "https://i.ibb.co/M7LK4GQ/7b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a2d",
+        "id": 8,
+        "name": "LG OLED",
+        "price": 600,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/T0NxLJ2/8a.jpg",
+            "https://i.ibb.co/T0NxLJ2/8a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a2e",
+        "id": 9,
+        "name": "LG UHD",
+        "price": 500,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/CMrXZcL/9a.jpg",
+            "https://i.ibb.co/CMrXZcL/9a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a2f",
+        "id": 10,
+        "name": "LG UHD",
+        "price": 700,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/Tk74gWb/10a.jpg",
+            "https://i.ibb.co/SxPxMjK/10b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a30",
+        "id": 11,
+        "name": "CRYSTAL UHD",
+        "price": 900,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/stsc6P3/11a.jpg",
+            "https://i.ibb.co/swc78Dy/11b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a31",
+        "id": 12,
+        "name": "NEO QLED",
+        "price": 800,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/M7LK4GQ/7b.jpg",
+            "https://i.ibb.co/M7LK4GQ/7b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a32",
+        "id": 13,
+        "name": "CRYSTAL UHD",
+        "price": 500,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/gyGDHwZ/13a.jpg",
+            "https://i.ibb.co/xq3fkNY/13b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a33",
+        "id": 14,
+        "name": "AQUOS",
+        "price": 600,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/4fQ02S1/14a.png",
+            "https://i.ibb.co/4fQ02S1/14a.png"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a34",
+        "id": 15,
+        "name": "LG OLED",
+        "price": 400,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/qsFWBFj/15a.jpg",
+            "https://i.ibb.co/qsFWBFj/15a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a35",
+        "id": 16,
+        "name": "SAMSUNG",
+        "price": 800,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/SxPxMjK/10b.jpg",
+            "https://i.ibb.co/SxPxMjK/10b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a36",
+        "id": 17,
+        "name": "LG NANO CELL",
+        "price": 700,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/Xs365JD/17a.jpg",
+            "https://i.ibb.co/ccpQ7qc/17b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a37",
+        "id": 18,
+        "name": "HISENSE",
+        "price": 600,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/7y3cBJR/18a.jpg",
+            "https://i.ibb.co/hD0R2Bk/18b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a38",
+        "id": 19,
+        "name": "LG NANO CELL",
+        "price": 900,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/MsvSWXc/19a.jpg",
+            "https://i.ibb.co/MsvSWXc/19a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a39",
+        "id": 20,
+        "name": "HISENSE",
+        "price": 700,
+        "description": "High Quality TV",
+        "category": "TV",
+        "pics": [
+            "https://i.ibb.co/5xZWqtS/20a.jpg",
+            "https://i.ibb.co/D7jnGw5/20b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a3a",
+        "id": 21,
+        "name": "HP",
+        "price": 999,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/Twtk3sC/21a.jpg",
+            "https://i.ibb.co/Twtk3sC/21a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a3b",
+        "id": 22,
+        "name": "HP",
+        "price": 1099,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/ykYs4gG/22a.jpg",
+            "https://i.ibb.co/t2gJMqR/22b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a3c",
+        "id": 23,
+        "name": "TOSHIBA",
+        "price": 1199,
+        "description": "i5",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/x8qdpk1/23a.jpg",
+            "https://i.ibb.co/254vWMD/23b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a3d",
+        "id": 24,
+        "name": "SAMSUNG",
+        "price": 899,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/GpkS1sL/24a.jpg",
+            "https://i.ibb.co/Fmqm2TW/24b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a3e",
+        "id": 25,
+        "name": "HP",
+        "price": 899,
+        "description": "i5",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/jDbXHgn/25a.jpg",
+            "https://i.ibb.co/jDbXHgn/25a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a3f",
+        "id": 26,
+        "name": "TOSHIBA",
+        "price": 999,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/XYZckf3/26a.jpg",
+            "https://i.ibb.co/XYZckf3/26a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a40",
+        "id": 27,
+        "name": "SAMSUNG",
+        "price": 1199,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/pbRXqL2/27a.jpg",
+            "https://i.ibb.co/2nqwc20/27b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a41",
+        "id": 28,
+        "name": "SAMSUNG",
+        "price": 899,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/kKr73j2/28a.jpg",
+            "https://i.ibb.co/8x0kx0y/28b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a42",
+        "id": 29,
+        "name": "HP",
+        "price": 899,
+        "description": "i3",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/XpZT6WW/29a.jpg",
+            "https://i.ibb.co/HXPMqhZ/29b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a43",
+        "id": 30,
+        "name": "HP",
+        "price": 799,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/Rct47Fy/30a.jpg",
+            "https://i.ibb.co/Rct47Fy/30a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a44",
+        "id": 31,
+        "name": "SAMSUNG",
+        "price": 1099,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/R6R3VFr/31a.jpg",
+            "https://i.ibb.co/R6R3VFr/31a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a45",
+        "id": 32,
+        "name": "TOSHIBA",
+        "price": 999,
+        "description": "i5",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/g9MGbNg/32a.jpg",
+            "https://i.ibb.co/VSL8KfB/32b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a46",
+        "id": 33,
+        "name": "HP",
+        "price": 999,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/0DBSxx3/33a.jpg",
+            "https://i.ibb.co/0DBSxx3/33a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a47",
+        "id": 34,
+        "name": "SAMSUNG",
+        "price": 899,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/YpKDNYG/34a.jpg",
+            "https://i.ibb.co/mqqr8Bs/34b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a48",
+        "id": 35,
+        "name": "HP",
+        "price": 1099,
+        "description": "i3",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/bgQ0cgN/35a.jpg",
+            "https://i.ibb.co/hFsq4T5/33b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a49",
+        "id": 36,
+        "name": "TOSHIBA",
+        "price": 1199,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/smQTbJR/36a.jpg",
+            "https://i.ibb.co/FHxZ0qy/36b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a4a",
+        "id": 37,
+        "name": "HP",
+        "price": 799,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/SRZWYBQ/37a.jpg",
+            "https://i.ibb.co/SRZWYBQ/37a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a4b",
+        "id": 38,
+        "name": "SAMSUNG",
+        "price": 999,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/CmXG4ph/38a.jpg",
+            "https://i.ibb.co/txQtsJ2/38b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a4c",
+        "id": 39,
+        "name": "TOSHIBA",
+        "price": 799,
+        "description": "i7",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/7gcz3dv/39a.jpg",
+            "https://i.ibb.co/7gcz3dv/39a.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a4d",
+        "id": 40,
+        "name": "HP",
+        "price": 899,
+        "description": "i3",
+        "category": "Laptops",
+        "pics": [
+            "https://i.ibb.co/vmzP2vX/40b.jpg",
+            "https://i.ibb.co/vmzP2vX/40b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a4e",
+        "id": 41,
+        "name": "SONY",
+        "price": 99,
+        "description": "For a Clean Style",
+        "category": "Shaving",
+        "pics": [
+            "https://i.ibb.co/3FLrXyN/41a.png",
+            "https://i.ibb.co/X5Rrcw1/41b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a4f",
+        "id": 42,
+        "name": "SANGYONG",
+        "price": 49,
+        "description": "For a Clean Style",
+        "category": "Shaving",
+        "pics": [
+            "https://i.ibb.co/YX5GX4W/42a.jpg",
+            "https://i.ibb.co/K2Wdyb7/42b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a50",
+        "id": 43,
+        "name": "BRAUN",
+        "price": 59,
+        "description": "For a Clean Style",
+        "category": "Shaving",
+        "pics": [
+            "https://i.ibb.co/7bHbkkb/43a.jpg",
+            "https://i.ibb.co/jw9HB6J/43b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a51",
+        "id": 44,
+        "name": "PHILIPS",
+        "price": 79,
+        "description": "For a Clean Style",
+        "category": "Shaving",
+        "pics": [
+            "https://i.ibb.co/fMh68gJ/44a.jpg",
+            "https://i.ibb.co/h2Zd9k1/44b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a52",
+        "id": 45,
+        "name": "PHILIPS",
+        "price": 89,
+        "description": "For a Clean Style",
+        "category": "Shaving",
+        "pics": [
+            "https://i.ibb.co/kJ8k743/45a.jpg",
+            "https://i.ibb.co/d5ztpkH/45b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a53",
+        "id": 46,
+        "name": "BAYBYLISS",
+        "price": 99,
+        "description": "For a Straight Hair",
+        "category": "hairStraightener",
+        "pics": [
+            "https://i.ibb.co/0fQ8MKT/46a.png",
+            "https://i.ibb.co/19z7mqV/46b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a54",
+        "id": 47,
+        "name": "SONY",
+        "price": 89,
+        "description": "For a Straight Hair",
+        "category": "hairStraightener",
+        "pics": [
+            "https://i.ibb.co/S5z1r1C/47a.jpg",
+            "https://i.ibb.co/gTKLDTt/47b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a55",
+        "id": 48,
+        "name": "SHARP",
+        "price": 79,
+        "description": "For a Straight Hair",
+        "category": "hairStraightener",
+        "pics": [
+            "https://i.ibb.co/Jxg2GFB/48a.png",
+            "https://i.ibb.co/s9vxx8b/48b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a56",
+        "id": 49,
+        "name": "SAMSUNG",
+        "price": 89,
+        "description": "For a Straight Hair",
+        "category": "hairStraightener",
+        "pics": [
+            "https://i.ibb.co/9GVVSHX/49a.png",
+            "https://i.ibb.co/841pKfS/49b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a57",
+        "id": 50,
+        "name": "BAYBYLISS",
+        "price": 69,
+        "description": "For a Straight Hair",
+        "category": "hairStraightener",
+        "pics": [
+            "https://i.ibb.co/Bypcz94/50a.jpg",
+            "https://i.ibb.co/YRc7Tj3/50b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a58",
+        "id": 51,
+        "name": "PANASONIC",
+        "price": 99,
+        "description": "For a Fresh Cut",
+        "category": "trimers",
+        "pics": [
+            "https://i.ibb.co/VWzzQXq/51a.jpg",
+            "https://i.ibb.co/jMqqFqL/51b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a59",
+        "id": 52,
+        "name": "PANASONIC",
+        "price": 89,
+        "description": "For a Fresh Cut",
+        "category": "trimers",
+        "pics": [
+            "https://i.ibb.co/bN7gjws/52a.jpg",
+            "https://i.ibb.co/j67s15K/52b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a5a",
+        "id": 53,
+        "name": "PHILIPS",
+        "price": 99,
+        "description": "For a Fresh Cut",
+        "category": "trimers",
+        "pics": [
+            "https://i.ibb.co/zr48P9P/53a.jpg",
+            "https://i.ibb.co/93rhcRQ/53b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a5b",
+        "id": 54,
+        "name": "WAHL",
+        "price": 69,
+        "description": "For a Fresh Cut",
+        "category": "trimers",
+        "pics": [
+            "https://i.ibb.co/0FmTPP2/54a.jpg",
+            "https://i.ibb.co/94PqXR1/54b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a5c",
+        "id": 55,
+        "name": "BABYLISS",
+        "price": 79,
+        "description": "For a Fresh Cut",
+        "category": "trimers",
+        "pics": [
+            "https://i.ibb.co/px7f58X/55a.jpg",
+            "https://i.ibb.co/Wk1yhbY/55b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a5d",
+        "id": 56,
+        "name": "PANUKS",
+        "price": 89,
+        "description": "For a Soft Touch",
+        "category": "hairDryer",
+        "pics": [
+            "https://i.ibb.co/MG5rt7k/56a.jpg",
+            "https://i.ibb.co/qpSFVM2/56b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a5e",
+        "id": 57,
+        "name": "BABYLISS",
+        "price": 99,
+        "description": "For a Soft Touch",
+        "category": "hairDryer",
+        "pics": [
+            "https://i.ibb.co/xfjz0qj/57a.jpg",
+            "https://i.ibb.co/L9WWvhv/57b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a5f",
+        "id": 58,
+        "name": "SONY",
+        "price": 79,
+        "description": "For a Soft Touch",
+        "category": "hairDryer",
+        "pics": [
+            "https://i.ibb.co/hYrwsLS/58a.png",
+            "https://i.ibb.co/RDWnzpS/58b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a60",
+        "id": 59,
+        "name": "PHILIPS",
+        "price": 89,
+        "description": "For a Soft Touch",
+        "category": "hairDryer",
+        "pics": [
+            "https://i.ibb.co/LSzpMTN/59a.jpg",
+            "https://i.ibb.co/qgygZdn/59b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a61",
+        "id": 60,
+        "name": "BABYLISS",
+        "price": 79,
+        "description": "For a Soft Touch",
+        "category": "hairDryer",
+        "pics": [
+            "https://i.ibb.co/x7FT4Cm/60a.jpg",
+            "https://i.ibb.co/41zw7k8/60b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a62",
+        "id": 61,
+        "name": "ELECTRA",
+        "price": 399,
+        "description": "For a Hot Meal",
+        "category": "microwavesAndToasterOvens",
+        "pics": [
+            "https://i.ibb.co/KX4qXVx/61a.jpg",
+            "https://i.ibb.co/4ZTvhFS/61b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a63",
+        "id": 62,
+        "name": "SAUTER",
+        "price": 499,
+        "description": "For a Hot Meal",
+        "category": "microwavesAndToasterOvens",
+        "pics": [
+            "https://i.ibb.co/4Pj0hQx/62a.jpg",
+            "https://i.ibb.co/LhnPKGk/62b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a64",
+        "id": 63,
+        "name": "SAMSUNG",
+        "price": 399,
+        "description": "For a Hot Meal",
+        "category": "microwavesAndToasterOvens",
+        "pics": [
+            "https://i.ibb.co/Dp0D1jb/63a.jpg",
+            "https://i.ibb.co/mT21LWf/63b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a65",
+        "id": 64,
+        "name": "SAMSUNG",
+        "price": 299,
+        "description": "For a Hot Meal",
+        "category": "microwavesAndToasterOvens",
+        "pics": [
+            "https://i.ibb.co/C7R5CpX/64a.jpg",
+            "https://i.ibb.co/mhR8sCB/64b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a66",
+        "id": 65,
+        "name": "SAUTER",
+        "price": 359,
+        "description": "For a Hot Meal",
+        "category": "microwavesAndToasterOvens",
+        "pics": [
+            "https://i.ibb.co/1G0QkrD/65a.jpg",
+            "https://i.ibb.co/xD3NG77/65b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a67",
+        "id": 66,
+        "name": "MORPHY RICHARDS",
+        "price": 299,
+        "description": "For a Crispy Toast",
+        "category": "toasters",
+        "pics": [
+            "https://i.ibb.co/vd2y5r1/66a.jpg",
+            "https://i.ibb.co/m51qn37/66b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a68",
+        "id": 67,
+        "name": "PHILIPS",
+        "price": 399,
+        "description": "For a Crispy Toast",
+        "category": "toasters",
+        "pics": [
+            "https://i.ibb.co/drPYqGw/67a.jpg",
+            "https://i.ibb.co/X4hfpgZ/67b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a69",
+        "id": 68,
+        "name": "SAUTER",
+        "price": 249,
+        "description": "For a Crispy Toast",
+        "category": "toasters",
+        "pics": [
+            "https://i.ibb.co/bWsbqCX/68a.jpg",
+            "https://i.ibb.co/cTZcFrQ/68b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a6a",
+        "id": 69,
+        "name": "PHILIPS",
+        "price": 299,
+        "description": "For a Crispy Toast",
+        "category": "toasters",
+        "pics": [
+            "https://i.ibb.co/jzqZNFY/69a.jpg",
+            "https://i.ibb.co/BjNkWVJ/69b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a6b",
+        "id": 70,
+        "name": "BREVILLE",
+        "price": 279,
+        "description": "For a Crispy Toast",
+        "category": "toasters",
+        "pics": [
+            "https://i.ibb.co/hVv8mGP/70a.jpg",
+            "https://i.ibb.co/w6F6THT/70b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a6c",
+        "id": 71,
+        "name": "SHARP",
+        "price": 399,
+        "description": "Best Mixing",
+        "category": "mixers",
+        "pics": [
+            "https://i.ibb.co/17bGC3q/71a.png",
+            "https://i.ibb.co/mTr6Jg0/71b.png"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a6d",
+        "id": 72,
+        "name": "SAMSUNG",
+        "price": 499,
+        "description": "Best Mixing",
+        "category": "mixers",
+        "pics": [
+            "https://i.ibb.co/bm0t5PG/72a.jpg",
+            "https://i.ibb.co/s9pKVyL/72b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a6e",
+        "id": 73,
+        "name": "SAUTER",
+        "price": 399,
+        "description": "Best Mixing",
+        "category": "mixers",
+        "pics": [
+            "https://i.ibb.co/zGx0LNL/73a.jpg",
+            "https://i.ibb.co/3zLrpp3/73b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a6f",
+        "id": 74,
+        "name": "PHILIPS",
+        "price": 389,
+        "description": "Best Mixing",
+        "category": "mixers",
+        "pics": [
+            "https://i.ibb.co/2N4172n/74a.jpg",
+            "https://i.ibb.co/n6Q1PPz/74b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a70",
+        "id": 75,
+        "name": "SONY",
+        "price": 349,
+        "description": "Best Mixing",
+        "category": "mixers",
+        "pics": [
+            "https://i.ibb.co/m9WnqgM/75a.jpg",
+            "https://i.ibb.co/WDj8Kjv/75b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a71",
+        "id": 76,
+        "name": "SAUTER",
+        "price": 99,
+        "description": "Strong and Compact",
+        "category": "electricStoves",
+        "pics": [
+            "https://i.ibb.co/vq0CzSW/76a.jpg",
+            "https://i.ibb.co/dL5mWMN/76b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a72",
+        "id": 77,
+        "name": "SONY",
+        "price": 199,
+        "description": "Strong and Compact",
+        "category": "electricStoves",
+        "pics": [
+            "https://i.ibb.co/VYsrTRW/77a.jpg",
+            "https://i.ibb.co/zbby9mz/77b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a73",
+        "id": 78,
+        "name": "SAUTER",
+        "price": 129,
+        "description": "Strong and Compact",
+        "category": "electricStoves",
+        "pics": [
+            "https://i.ibb.co/T8rBC2j/78a.jpg",
+            "https://i.ibb.co/Mcb0CGx/78b.png"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a74",
+        "id": 79,
+        "name": "SONY",
+        "price": 179,
+        "description": "Strong and Compact",
+        "category": "electricStoves",
+        "pics": [
+            "https://i.ibb.co/8s2VDWL/79a.jpg",
+            "https://i.ibb.co/HhLhXyn/79b.jpg"
+        ]
+    },
+    {
+        "_id": "6188fe1cfc2a72ef5c713a75",
+        "id": 80,
+        "name": "GOLD LINE",
+        "price": 189,
+        "description": "Strong and Compact",
+        "category": "electricStoves",
+        "pics": [
+            "https://i.ibb.co/FD6fscS/80a.jpg",
+            "https://i.ibb.co/6BmdRXq/80b.jpg"
+        ]
+    },
+    {
+        "_id": "619004a7f82beefb931f7204",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "Kitchen",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "619004e5f82beefb931f7205",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "kitchenData",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "61900509f82beefb931f7206",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "kitchenData",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "61900591f82beefb931f7207",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "Kitchen",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "61900671113ceac76d2d2d7f",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "Shaving",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "619007a7c33b89d9b598d1ff",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "hairDryer",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "619007aec33b89d9b598d200",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "trimers",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "619007d8c33b89d9b598d201",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "hairStraightener",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "6190096847bde1c0d3f1462f",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "electricStoves",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "6190096f47bde1c0d3f14630",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "mixers",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "6190097b47bde1c0d3f14631",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "toasters",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "6190098947bde1c0d3f14632",
+        "name": "ELECTRA",
+        "price": "1000",
+        "description": "The Best",
+        "category": "microwavesAndToasterOvens",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png",
+            "https://cdn.pixabay.com/photo/2012/04/11/17/29/microwave-29056__340.png"
+        ]
+    },
+    {
+        "_id": "6190107736022c50685f4a0d",
+        "name": "QWEQE",
+        "price": "3223432",
+        "description": "RYERYEY",
+        "category": "Laptops",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825__340.jpg",
+            "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825__340.jpg"
+        ]
+    },
+    {
+        "_id": "6190108936022c50685f4a0e",
+        "name": "QWEQE",
+        "price": "3223432",
+        "description": "RYERYEY",
+        "category": "TV",
+        "pics": [
+            "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825__340.jpg",
+            "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825__340.jpg"
+        ]
+    }
+]

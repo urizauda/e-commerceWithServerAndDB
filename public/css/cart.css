@@ -1,0 +1,217 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+header{
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(0, 0, 0, 0.425);
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+}
+
+nav {
+    width: 95%;
+    height: 100%;
+    margin-left: 2.5%;
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    width: 70%;
+}
+
+li {
+    padding: 1%;
+    display: inline;
+}
+
+a {
+    display: flex;
+    flex-flow: wrap;
+    color: rgba(255, 255, 255, 0.753);
+    text-decoration: none;
+    align-items: center;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: rgba(14, 13, 13, 0.979);
+    color: white;
+    width: 100%;
+}
+
+
+#cartTable {
+    text-align: center;
+    width: 80%;
+    margin-left: 7%;
+}
+
+
+#cartTable th {
+    width: 30%;
+    background-color: #ff523b;
+    color: white;
+    font-weight: normal;
+}
+
+
+#tdPicDescription {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40%;
+}
+
+
+.removeFromCartBtn {
+    background: red; 
+    width: 20px; 
+    height: 20px; 
+    color: white; 
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+#buyNowBtn {
+    margin-left: 79%;
+    border-radius: 5px;
+    background-color: rgb(228, 5, 5);
+    color: white;
+    font-size: 14px;
+}
+
+
+.removeFromCartBtn:hover {
+    cursor: pointer;
+    box-shadow: black 1px 2px 8px;
+}
+
+#buyNowBtn:hover {
+    cursor: pointer;
+    box-shadow: black 1px 2px 8px;
+}
+
+#totalSum {
+    border-top: red;
+    margin-left: 66%;
+    display: flex; 
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: rgba(128, 128, 128, 0.363);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 6%;
+    width: 100%;
+}
+
+hr {
+    border-top: 1px solid red;
+    width: 22%;
+    margin-left: 65%;
+}
+
+
+li a:hover {
+    color:white;
+    font-weight: 600;
+}
+
+
+#tnx4Buy {
+    width: 30%;
+    height: 30vh;
+    margin-left: 35%;
+    border: 2px solid white;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25%;
+    background-color: rgb(193, 205, 221);
+    z-index: 1;
+    position: absolute;
+    visibility: hidden;
+    border-radius: 10px;
+    color: rgb(255, 255, 0);
+    text-shadow: 1px 1px 1px black;
+}
+
+
+@media screen and (max-width: 768px) {
+    nav li {
+        margin-left: 3%;
+    }
+    
+    #totalSum {
+        margin-left: 62%;
+    }
+
+    hr {
+        margin-left: 61%;
+        width: 20%;
+        }
+
+    #buyNowBtn {
+        margin-left: 75%;
+    }
+
+    #tnx4Buy {
+        margin-top: -35%;
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+    nav li {
+        margin: 3%;
+    }
+
+    #brand {
+        display:none
+    }
+
+    #brandTitle {
+        display: none;
+    }
+    
+    hr {
+    margin-left: 39%;
+    width: 25%;
+    }
+
+    #buyNowBtn {
+        margin-left: 60%;
+        width: 28%;
+    }
+
+    #totalSum {
+        margin-left: 39.5%;
+    }
+
+    #tnx4Buy { 
+        margin-left: 22%;
+        margin-top: -60%;
+        height: 20vh;
+        width: 50%;
+    }
+
+    h4 {
+        margin-left: 8%;
+        text-align: center;
+    }
+}
+

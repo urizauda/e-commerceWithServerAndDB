@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/cart.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>Shopping Cart</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/kitchen.html">Kitchen</a></li>
+                <li><a href="/laptops.html">Laptops</a></li>
+                <li><a href="/tv.html">TV's</a></li>
+                <li><a href="/hair.html">Hairstyle</a></li>
+                <li><a href="./messages.html">Get Messages</a></li>
+                <li><a href="./contacts.html">Contact Us</a></li>
+                <li><a href="/posts.html">Add Product</a></li>
+            </ul>
+        </nav>
+    </header>
+    <br><br><br><br>
+    <main>
+        <h1 id="cartTitle">Shopping Cart</h1>
+        <table id="cartTable">
+            <tr>
+                <th>Image</th>
+                <th>category</th>
+                <th id="brandTitle">Brand</th>
+                <th style="width: 10%">Description</th>
+                <th>Price</th>
+                <th style="width: 10%">Remove</th>
+            </tr>
+        </table>
+        <hr>
+        <div id="totalSum"></div>
+        <p id="btnContainer">
+            <button id="buyNowBtn">BUY NOW</button>
+        </p>
+        <section id="tnx4Buy">
+            <h4>Thanks For Buying</h4>
+            <p>Electronics4All</p>
+        </section>
+    </main>
+    <footer>
+        <p>All Rights Reserved To Uri Zauda</p>
+    </footer>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="./js/carts.js"></script>
+
+</body>
+
+</html>

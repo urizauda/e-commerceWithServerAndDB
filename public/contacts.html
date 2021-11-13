@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/contacts.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>CONTACTS</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/hair.html">Hairstyle</a></li>
+                <li><a href="/kitchen.html">Kitchen</a></li>
+                <li><a href="/laptops.html">Laptops</a></li>
+                <li><a href="/tv.html">TV's</a></li>
+                <li><a href="/messages.html">Get Messages</a></li>
+                <li><a href="/posts.html">Add Product</a></li>
+
+            </ul>
+            <div id="logoPlusCounter">
+                <div id="cartIcon"><a href="/cart.html"><i id="cartImg"
+                            class="fa fa-shopping-cart"></i></i></a></div>
+                <div id="cartCounter"></div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <br><br><br><br>
+        <h1>Contact Us</h1><br>
+        <form id="contactForm">
+            <label for="firstName">First Name:</label><br>
+            <input type="text" name="firstName" id="firstName"><br><br>
+
+            <label for="lastName">Last Name:</label><br>
+            <input type="text" name="lastName" id="lastName"><br><br>
+
+            <label for="email">E-mail:</label><br>
+            <input type="email" name="email" id="email"><br><br>
+
+            <label for="phone">Phone Number:</label><br>
+            <input type="number" name="phone" id="phone"><br><br>
+
+            <label for="message">Leave Your Message Here:</label><br>
+            <textarea type="text" name="message" id="message"></textarea><br><br>
+
+            <button type="submit">Send</button>
+            <a href="./messages.html"><input type="button" value="Get Messages"></a>
+        </form>
+    </main>
+    <br><br>
+    <footer>
+        All Rights Reserved To Uri Zauda
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./js/contacts.js"></script>
+
+</body>
+
+</html>

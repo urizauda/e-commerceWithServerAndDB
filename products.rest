@@ -1,0 +1,79 @@
+GET http://localhost:8080/products
+
+###
+# GET http://localhost:8080/products/6185304ddcfbcb9b20d4611c
+
+###
+DELETE http://localhost:8080/products/61853722d5e3e99196a4ef7b
+
+###
+POST http://localhost:8080/products 
+content-Type: application/json
+
+{
+  "id": 82,
+"name": "LG",
+"price": 111199,
+"description": "REYEYER",
+"category": "Laptops",
+"pics": ["https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537__340.jpg", "https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537__340.jpg"]
+}
+
+###
+PATCH http://localhost:8080/products/61853722d5e3e99196a4ef7b 
+Content-Type: application/json
+
+{
+"name": "vvvvvvvvvvv", "category": "true"
+}
+
+###
+GET http://localhost:8080/contacts
+
+###
+POST http://localhost:8080/contacts 
+content-Type: application/json
+
+{
+"firstName": "OOOOO",
+"lastName": "WWWWW",
+"email": "email@gmail.com",
+"phone": 476756878,
+"message": "message"
+}
+
+###
+GET http://localhost:8080/carts/618ab569cf430325ee07e130
+
+###
+# POST http://localhost:8080/carts 
+# content-Type: application/json
+
+# {
+# "products": []
+# }
+
+###
+PATCH http://localhost:8080/carts/add/618ab569cf430325ee07e130 
+Content-Type: application/json
+
+{
+  "_id": "6188fe1cfc2a72ef5c713a26",
+    "id": 1,
+    "name": "NeoQled",
+    "price": 500,
+    "description": "High Quality TV",
+    "category": "TV",
+    "pics": [
+      "../media/img/categoryTV/1a.jpg",
+      "../media/img/categoryTV/1b.jpg"
+    ]
+}
+
+###
+PATCH http://localhost:8080/carts/delete/618ab569cf430325ee07e130 
+Content-Type: application/json
+
+{
+  "id": "6188fe1cfc2a72ef5c713a26"
+}

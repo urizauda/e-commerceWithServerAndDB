@@ -22,7 +22,7 @@ axios.get("/products")
         <p>Description: ${laptopsData[i].description}</p>
         <p>Price: ${laptopsData[i].price}$</p><br><br><br>
         <button class ="cartBtn" onclick = "addProductToCart('619049afe7a3fb36f5097c3d', ${i})">Add to Cart</button>
-        <a href="./updateProduct.html" ><input class ="cartBtnBlue" type="button" value="Update"></a>
+        <a href="/updateProduct.html" target = "blank"><button class ="cartBtnBlue" type="submit">Update</button></a>
         <button class ="deleteBtn" onclick = "deleteProduct('${laptopsData[i]._id}')">Delete</button>
         </div>`
             }

@@ -13,18 +13,23 @@ content-Type: application/json
 {
   "id": 82,
 "name": "LG",
-"price": 111199,
+"price": 999999,
 "description": "REYEYER",
 "category": "Laptops",
 "pics": ["https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537__340.jpg", "https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537__340.jpg"]
 }
 
 ###
-PATCH http://localhost:8080/products/61853722d5e3e99196a4ef7b 
+PATCH http://localhost:8080/products/81
 Content-Type: application/json
 
 {
-"name": "vvvvvvvvvvv", "category": "true"
+"name": "avi",
+"price": 11111111,
+"description": "wwwwwwwwww",
+"category": "Laptops",
+"pics": ["https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537__340.jpg", "https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537__340.jpg"]
+
 }
 
 ###

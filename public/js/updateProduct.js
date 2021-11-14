@@ -13,8 +13,8 @@ function updatePrdct(e) {
     const category = document.getElementById("category").value;
     const img1 = document.getElementById("img1").value;
     const img2 = document.getElementById("img2").value;
-    const pics = [img1, img2]
-    
+    const pics = [img1, img2];
+    console.log(id, category);
     // 2. update a product by given id
     axios
         .patch(`/products/${id}`, {

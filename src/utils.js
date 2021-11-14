@@ -66,7 +66,7 @@ function updateProductByGivenId(req, res) {
     MongoClient.connect(mongoURL, (err, db) => {
         if (err) throw err;
         const myObj = req.body;
-        const objId = { id: req.params.id};
+        const objId = { id: Number(req.params.id)};
         console.log(objId);
         const dbo = db.db("ecommerce");
         dbo.collection("products").updateOne(objId, { $set: myObj }, (error, docs) => {

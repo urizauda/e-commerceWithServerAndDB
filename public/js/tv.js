@@ -53,7 +53,7 @@ function addProductToCart(cartId, index) {
         .then(function (response) {
             console.log(response);
             cartCounter.innerHTML++;
-
+            alert("Product Added To Cart");
         })
         .catch(function (error) {
             console.log(error);
@@ -68,6 +68,7 @@ function deleteProduct(id) {
     axios.delete(`/products/${id}`)
     .then(function (response) {
         console.log(response);
+        alert("Product Deleted");
       })
       .catch(function (error) {
         console.log(error);

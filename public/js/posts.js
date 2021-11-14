@@ -21,6 +21,7 @@ postForm.addEventListener("submit", (e) => {
         })
         .then((response) => {
             console.log(response);
+            alert("Product Added Successfully")
         })
 
         .catch((error) => {

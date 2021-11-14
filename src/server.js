@@ -3,7 +3,7 @@ console.log("app is loading...");
 const path = require("path");
 const express = require("express");
 const app = express();
-const PORT = 8080;
+const PORT = process.env.PORT;
 const utils = require("./utils");
 const basicRouteProducts = "/products";
 const basicRouteContacts = "/contacts";

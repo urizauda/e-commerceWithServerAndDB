@@ -26,7 +26,7 @@ app.get(`${basicRouteProducts}`, (req, res) => {
 })
 
 
-// delete specific product by given id
+// delete specific product by given id----
 app.delete(`${basicRouteProducts}/:id`, (req, res) => {
     utils.deleteProductById(req, res);
 })
